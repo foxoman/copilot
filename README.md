@@ -10,15 +10,21 @@ If you like this theme, you can use it for free appreciate your support to have 
 # Screenshots
 
 ### Qt C++
-![Qt](https://raw.githubusercontent.com/foxoman/onedarkpro/master/onedarkPro.png)
+![Qt](https://github.com/foxoman/copilot/blob/main/copilotcpp.png?raw=true)
+
+### Qt Qml
+![Qt](https://github.com/foxoman/copilot/blob/main/copilotqml.png?raw=true)
+
+### Qt js
+![Qt](https://github.com/foxoman/copilot/blob/main/copilotjs.png?raw=true)
 
 # Install
 
 ## Windows
-`xcopy onedarkpro.xml %APPDATA%\QtProject\qtcreator\styles`
+`xcopy Copilot.xml %APPDATA%\QtProject\qtcreator\styles`
 
 ## MacOS
-`cp onedarkpro.xml ~/.config/QtProject/qtcreator/styles/`
+`cp Copilot.xml ~/.config/QtProject/qtcreator/styles/`
 
 ## Linux
-`cp onedarkpro.xml ~/.config/QtProject/qtcreator/styles/`
+`cp Copilot.xml ~/.config/QtProject/qtcreator/styles/`
